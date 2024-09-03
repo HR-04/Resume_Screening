@@ -1,0 +1,3 @@
+**Project Title**: Resume Screening App
+
+**Description**: This web application automatically classifies uploaded resumes into predefined job categories using machine learning. It processes the text from resumes, cleans it by removing unwanted characters and patterns, and then applies a pre-trained model to predict the job role. The app supports various text file formats and handles different character encodings to ensure accurate text extraction. Users can upload resumes in `.txt` or `.pdf` format, and the app displays the predicted job category based on the resume content.
